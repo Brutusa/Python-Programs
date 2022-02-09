@@ -5,6 +5,7 @@ from donor import Donor
 from bloodBank import BloodBank
 from privateDatabase import *
 
+#Software designed by Andujar Brutus and El Arbi
 def menu():
   print("\n:::CARDINAL MAIN MENU:::")
   print("1. Register a New Member Donor.")
